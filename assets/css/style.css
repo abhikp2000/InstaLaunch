@@ -1182,15 +1182,15 @@ p {
           padding-bottom: 28px; }
           @media only screen and (min-width: 992px) and (max-width: 1200px) {
             .banner-slide.banner-slide-2 .banner-area .banner-content .title {
-              font-size: 70px;
+              font-size: 78px;
               line-height: 80px; } }
           @media only screen and (min-width: 768px) and (max-width: 991px) {
             .banner-slide.banner-slide-2 .banner-area .banner-content .title {
-              font-size: 54px;
+              font-size: 65px;
               line-height: 64px; } }
           @media (max-width: 767px) {
             .banner-slide.banner-slide-2 .banner-area .banner-content .title {
-              font-size: 32px;
+              font-size: 45px;
               line-height: 42px;
               letter-spacing: 0; } }
           @media only screen and (min-width: 576px) and (max-width: 767px) {
