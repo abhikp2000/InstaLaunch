@@ -1424,7 +1424,6 @@ p {
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: url(../images/line.png); }
   .best-creative-area .best-creative-bg .best-creative-content {
     padding-left: 80px;
     padding-top: 68px;
@@ -2237,7 +2236,6 @@ p {
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: url(../images/line.png);
     background-size: 70% 100%;
     background-position: center;
     background-repeat: no-repeat; }
@@ -4616,7 +4614,7 @@ margin-bottom: 100px; }
     top: 0;
     height: 100%;
     width: 100%;
-    background-image: url(../images/line.png);
+   
     background-size: 70% 100%;
     background-repeat: no-repeat;
     background-position: center; }
