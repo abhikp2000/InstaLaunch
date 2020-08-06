@@ -4517,6 +4517,7 @@ margin-bottom: 100px; }
       border: 1px solid #f7eae8;
       padding: 53px 60px 60px;
       background: #fff;
+	    height: 500px;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
